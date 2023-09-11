@@ -1,1 +1,1 @@
-# tutorial_DWave_QCAutumnSchool_FZJ
+# Tutorial_DWave_QCAutumnSchool_FZJ
